@@ -1,0 +1,1 @@
+Note: this was a simple homework assignment meant for Psychology students (CS 491 is a mix of CS and Psych students) who are not yet familiar with Unity.
